@@ -1,0 +1,11 @@
+{
+  "version": "0.4.5",
+  "downloadUrl": "https://github.com/pablomelos2021/pv-hub/releases/download/v0.4.5/PvHub.App.exe",
+  "sha256": "57f8e4cbfc88c9b868c675867dfc979eca548b8f07fdf4c41a166c3efec77ca8",
+  "notesUrl": "https://github.com/pablomelos2021/pv-hub/releases/tag/v0.4.5",
+  "mandatory": false,
+  "changelog": [
+    "Atualização automática ligada: o PV HUB passa a avisar quando sai versão nova",
+    "Ícones originais de cada programa na tela Programas"
+  ]
+}
