@@ -1,1 +1,11 @@
-ewogICJ2ZXJzaW9uIjogIjAuNS4xIiwKICAiZG93bmxvYWRVcmwiOiAiaHR0cHM6Ly9naXRodWIuY29tL3BhYmxvbWVsb3MyMDIxL3B2LWh1Yi9yZWxlYXNlcy9kb3dubG9hZC92MC41LjEvUHZIdWIuQXBwLmV4ZSIsCiAgInNoYTI1NiI6ICI1MDIwOGMyYzA4Yzg5Yjg2OTBhYjlhYWRmNWFlYzY0OTc3ZjU1ZDZkMDJkYmRlZDExMjdiNDM4NmMxZWQxNzVjIiwKICAibm90ZXNVcmwiOiAiaHR0cHM6Ly9naXRodWIuY29tL3BhYmxvbWVsb3MyMDIxL3B2LWh1Yi9yZWxlYXNlcy90YWcvdjAuNS4xIiwKICAibWFuZGF0b3J5IjogZmFsc2UsCiAgImNoYW5nZWxvZyI6IFsKICAgICJCYW5uZXIgZGUgcHJvbW/Dp8O1ZXMgYWdvcmEgw6kgY29udHJvbGFkbyBzw7MgcGVsYSBQViBJbmZvcm3DoXRpY2EgKG8gY2xpZW50ZSBuw6NvIGVkaXRhIG1haXMpIiwKICAgICJDb25mZXLDqm5jaWEgZGUgYXR1YWxpemHDp8O1ZXMgcmVmb3LDp2FkYTogdGVudGEgZGUgbm92byBzZSBhIHJlZGUgZmFsaGFyIG5hIGFiZXJ0dXJhIGUgcmVjb25mZXJlIGEgY2FkYSAzMCBtaW51dG9zIgogIF0KfQo=
+{
+  "version": "0.5.1",
+  "downloadUrl": "https://github.com/pablomelos2021/pv-hub/releases/download/v0.5.1/PvHub.App.exe",
+  "sha256": "50208c2c08c89b8690ab9aadf5aec64977f55d6d02dbded1127b4386c1ed175c",
+  "notesUrl": "https://github.com/pablomelos2021/pv-hub/releases/tag/v0.5.1",
+  "mandatory": false,
+  "changelog": [
+    "Banner de promoções agora é controlado só pela PV Informática (o cliente não edita mais)",
+    "Conferência de atualizações reforçada: tenta de novo se a rede falhar na abertura e reconfere a cada 30 minutos"
+  ]
+}
