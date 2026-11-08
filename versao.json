@@ -1,10 +1,12 @@
 {
-  "version": "0.8.1",
-  "downloadUrl": "https://github.com/pablomelos2021/pv-hub/releases/download/v0.8.1/PvHub.App.exe",
-  "sha256": "1965db549db8a73c7c4a2d5bc13d8122103b73238883a96181cfbc32c87c8a22",
-  "notesUrl": "https://github.com/pablomelos2021/pv-hub/releases/tag/v0.8.1",
+  "version": "0.9.0",
+  "downloadUrl": "https://github.com/pablomelos2021/pv-hub/releases/download/v0.9.0/PvHub.App.exe",
+  "sha256": "26caab596b344237a85a0bf4a603b89f5ce9a1a9404cad10528cc1fa9d1b688e",
+  "notesUrl": "https://github.com/pablomelos2021/pv-hub/releases/tag/v0.9.0",
   "mandatory": false,
   "changelog": [
-    "Correção: algumas telas novas abriam com erro de recurso (Reparar, Desinstalador, Pós-formatação e outras) — resolvido"
+    "Ícones 3D coloridos no menu e nas Ferramentas, botão do WhatsApp sem cortar o texto",
+    "Arquivos duplicados: dá para analisar um disco inteiro (C:, D:, pendrive); botões Procurar/Parar corrigidos",
+    "Teste de rede: escolha a placa de rede — com VPN instalada, o teste usa a placa física por padrão"
   ]
 }
