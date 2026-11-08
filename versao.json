@@ -1,12 +1,11 @@
 {
-  "version": "0.9.0",
-  "downloadUrl": "https://github.com/pablomelos2021/pv-hub/releases/download/v0.9.0/PvHub.App.exe",
-  "sha256": "26caab596b344237a85a0bf4a603b89f5ce9a1a9404cad10528cc1fa9d1b688e",
-  "notesUrl": "https://github.com/pablomelos2021/pv-hub/releases/tag/v0.9.0",
+  "version": "0.10.0",
+  "downloadUrl": "https://github.com/pablomelos2021/pv-hub/releases/download/v0.10.0/PvHub.App.exe",
+  "sha256": "04e43cf9eae204476a2cb48abc7e5041136a513c1640dfecc28ff2ab8368fe22",
+  "notesUrl": "https://github.com/pablomelos2021/pv-hub/releases/tag/v0.10.0",
   "mandatory": false,
   "changelog": [
-    "Ícones 3D coloridos no menu e nas Ferramentas, botão do WhatsApp sem cortar o texto",
-    "Arquivos duplicados: dá para analisar um disco inteiro (C:, D:, pendrive); botões Procurar/Parar corrigidos",
-    "Teste de rede: escolha a placa de rede — com VPN instalada, o teste usa a placa física por padrão"
+    "Teste de rede CORRIGIDO: a velocidade agora é medida num servidor perto de você (rede M-Lab, a mesma do teste do Google) e bate com o Speedtest — antes saía bem menor que o real",
+    "Teste de rede no estilo Speedtest: mostra seu IP público e o provedor, e dá para escolher o servidor do teste (padrão: o mais próximo)"
   ]
 }
