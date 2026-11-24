@@ -1,8 +1,8 @@
 {
-  "version": "0.14.1",
-  "downloadUrl": "https://github.com/pablomelos2021/pv-hub/releases/download/v0.14.1/PvHub.App.exe",
-  "sha256": "f1a392f3b6e057734e0dff6b2120df1458d5f01869b11ea6263a626d32ad115a",
-  "notesUrl": "https://github.com/pablomelos2021/pv-hub/releases/tag/v0.14.1",
+  "version": "0.14.2",
+  "downloadUrl": "https://github.com/pablomelos2021/pv-hub/releases/download/v0.14.2/PvHub.App.exe",
+  "sha256": "452d93a03fc5de87ce86d608406fce7af860e31bf7248d95af6de2867031c6e0",
+  "notesUrl": "https://github.com/pablomelos2021/pv-hub/releases/tag/v0.14.2",
   "mandatory": false,
-  "notes": "**Correção do banner de propagandas**\n\n- O PV HUB guardava a propaganda em cache por 6 horas: quem tinha fechado uma propaganda antiga ficava sem ver a nova até o cache vencer. Agora ele busca o banner a cada abertura do programa — propaganda trocada aparece na hora (o cache só é usado se o PC estiver sem internet).\n- Inclui o banner em arte grande da 0.14.0."
+  "notes": "**Banner panorâmico no tamanho certo**\n\n- No modo arte grande, a altura do banner agora acompanha a largura do cartão (proporção 3:1 da arte oficial): a propaganda preenche o cartão inteiro em qualquer tamanho de janela, sem faixas sobrando dos lados.\n- Inclui as novidades da 0.14.0/0.14.1 (arte grande clicável e busca do banner a cada abertura)."
 }
