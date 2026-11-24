@@ -1,10 +1,11 @@
 {
-  "version": "0.11.1",
-  "downloadUrl": "https://github.com/pablomelos2021/pv-hub/releases/download/v0.11.1/PvHub.App.exe",
-  "sha256": "25bd29c4c4fd5b33b2a58a6c3b92f75ee764b5c9a5393dc7f0308026d7d6705c",
-  "notesUrl": "https://github.com/pablomelos2021/pv-hub/releases/tag/v0.11.1",
+  "version": "0.13.0",
+  "downloadUrl": "https://github.com/pablomelos2021/pv-hub/releases/download/v0.13.0/PvHub.App.exe",
+  "sha256": "fe3118ad2eca4d0a3a985b99ddafef00e9f8723087734813d6f5192417a5bd2d",
+  "notesUrl": "https://github.com/pablomelos2021/pv-hub/releases/tag/v0.13.0",
   "mandatory": false,
   "changelog": [
-    "Correção: o Java falhava com 'no applicable installer' — agora, se o catálogo recusar as opções de idioma/arquitetura, o PV HUB tenta de novo do jeito mais simples até instalar"
+    "Teste de rede: agora sonda a distância dos servidores M-Lab e Cloudflare e mede no mais perto, com 6 conexões simultâneas (servidor longe derrubava o resultado)",
+    "Teste de rede: mostrador único central no modelo do Speedtest, com agulha ao vivo no download e no upload"
   ]
 }
